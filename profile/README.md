@@ -6,6 +6,7 @@
 Finally, the first update of WAVE, which is also the first time WAVE is released to all members on our Discord server, we have fixed a lot, this is the first update so WAVE may have a lot of bugs, hope you sympathize and report bugs, as well as create suggestions on the channels
 
 > wave+ is a Discord bot designed to automate and hack Duolingo lessons, making it easier and faster to farm XP efficiently. You can try wave+ in [our server](https://discord.gg/NYxtshxq68)!
+
 WAVE Features:
 
 - Farm XP: WAVE has been updated by us to be one of the best XP farming bots today with 201 XP in a lesson
