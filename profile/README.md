@@ -16,6 +16,7 @@ WAVE Features:
 
 Thank you for all the support, as well as special thanks to the testers and helpers who helped, we will try to bring you the best experiences!
 
+**Duolingo Account Manager:**
 <p align="center">
   <img src="https://raw.githubusercontent.com/trywave/.github/refs/heads/main/WAVE/ASSET/concept-rounded.png" alt="CONCEPT">
 </p>
