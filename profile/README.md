@@ -1,7 +1,7 @@
 # Hi, we are wave+ 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/trywave/.github/refs/heads/main/WAVE/ASSET/bg.png" alt="BG">
+  <img src="https://raw.githubusercontent.com/trywave/.github/refs/heads/main/WAVE/ASSET/bg.png" alt="BG" width="200">
 </p>
 
 Finally, the first update of WAVE, which is also the first time WAVE is released to all members on our Discord server, we have fixed a lot, this is the first update so WAVE may have a lot of bugs, hope you sympathize and report bugs, as well as create suggestions on the channels
